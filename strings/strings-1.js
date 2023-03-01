@@ -14,9 +14,9 @@ const myString = "timoteo";
 
 // ----
 
-const firstLetterUpperCase = (text) => {
-  const firstLetter = text[0].toUpperCase();
-  const restOfTheText = text.slice(1, text.length).toLowerCase();
+const firstLetterUpperCase = (value) => {
+  const firstLetter = value[0].toUpperCase();
+  const restOfTheText = value.slice(1, value.length).toLowerCase();
 
   return firstLetter + restOfTheText;
 };
