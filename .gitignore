@@ -1,0 +1,17 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.o
+*.out
+*.exe
+
+# Directorios
+__pycache__/
+node_modules/
+dist/
+build/
+venv/
+.idea/
+.vscode/
