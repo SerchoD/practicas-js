@@ -1,4 +1,4 @@
-const myString = 'timoteo';
+const myString = "timoteo";
 
 // console.log("myString: ", myString);
 // console.log("Longitud: ", myString.length);
@@ -13,10 +13,10 @@ const myString = 'timoteo';
 // que ha de ser en mayúsculas.
 
 const firstLetterUpperCase = (value) => {
-	const restOfTheText = value.slice(1, value.length).toLowerCase();
-	const firstLetter = value[0].toUpperCase();
+  const restOfTheText = value.slice(1, value.length).toLowerCase();
+  const firstLetter = value[0].toUpperCase();
 
-	return firstLetter + restOfTheText;
+  return firstLetter + restOfTheText;
 };
 
 // console.log(firstLetterUpperCase(myString));

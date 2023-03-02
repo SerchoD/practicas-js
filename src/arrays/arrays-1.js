@@ -2,11 +2,11 @@
 
 // console.log('myString: ', myString[0]);
 
-const unasFrutas = ['pera', 'manzana'];
-const otrasFrutas = ['manana', 'banana'];
+const unasFrutas = ["pera", "manzana"];
+const otrasFrutas = ["manana", "banana"];
 
-const unaFruta = 'cereza';
+const unaFruta = "cereza";
 
-const algunaDeEstas = unasFrutas.includes('sandía');
+const algunaDeEstas = unasFrutas.includes("sandía");
 
-console.log('algunaDeEstas: ', algunaDeEstas);
+console.log("algunaDeEstas: ", algunaDeEstas);
