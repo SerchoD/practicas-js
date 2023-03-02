@@ -16,7 +16,7 @@
     "url": "https://github.com/SerchoD/practicas-js/issues"
   },
   "homepage": "https://github.com/SerchoD/practicas-js#readme",
-  "dependencies": {
-    "prettier": "^2.8.4"
+  "devDependencies": {
+    "prettier": "2.8.4"
   }
 }
