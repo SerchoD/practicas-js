@@ -1,2 +1,2 @@
 #!/bin/bash
-prettier --write "**/*.{js,jsx,ts,tsx}"
+prettier --write "**/*.{js,jsx,ts,tsx,json,css,html,vue}"
